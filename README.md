@@ -1,4 +1,4 @@
-# Desafio Alura Store
+# Desafio TelecomX
 
 Este é um projeto do Programa Oracle Next Education chamado TelecomX
 
